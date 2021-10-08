@@ -15,3 +15,5 @@ Option 2:
 ```
 make build; ./kava
 ```
+
+after executing the script you should get a `prioritized-transactions.txt` file
